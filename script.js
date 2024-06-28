@@ -139,6 +139,11 @@ class ShoppingCart {
   getCounts() {
     return this.items.length;
   }
+
+  calculateTaxes(amount) {
+    return parseFloat((amount * (this.taxRate / 100)).toFixed(2));
+  }
+
 }
 
 const cart = new ShoppingCart();
