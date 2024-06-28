@@ -135,6 +135,10 @@ class ShoppingCart {
         </div>
       `);
   }
+
+  getCounts() {
+    return this.items.length;
+  }
 }
 
 const cart = new ShoppingCart();
