@@ -4,20 +4,20 @@ This is a project from freeCodeCamp's JavaScript Algorithms and Data Structures 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- [View Code](https://www.example.com)
-- [Live Preview](https://www.example.com)
+- [View Code](https://github.com/elizerdim/fcc-shopping-cart)
+- [Live Preview](https://elizerdim.github.io/fcc-shopping-cart/)
 
 ### Built with
 
 - HTML
 - CSS 
 - JavaScript
+- OOP design pattern
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Function.prototype.bind()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
